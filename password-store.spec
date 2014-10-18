@@ -1,11 +1,11 @@
 Summary:	Standard unix password manager
 Name:		password-store
-Version:	1.6.1
-Release:	2
+Version:	1.6.3
+Release:	1
 License:	GPL v2+
 Group:		Applications
 Source0:	http://git.zx2c4.com/password-store/snapshot/%{name}-%{version}.tar.xz
-# Source0-md5:	d970e0c5a0e4d1455e5bfb8926a4cc1c
+# Source0-md5:	bcfd1027f5c92f26d7fcbf4e3af750eb
 URL:		http://zx2c4.com/projects/password-store/
 Requires:	gnupg2
 Requires:	pwgen
